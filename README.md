@@ -1,0 +1,2 @@
+# dado
+ tp de dado
