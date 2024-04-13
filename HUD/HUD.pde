@@ -12,6 +12,7 @@ public void setup(){
   
 }
 public void draw(){
+  dado.tirarDado();
   dado.dibujar();
   
 }
