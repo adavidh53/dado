@@ -23,7 +23,11 @@ class Dado{
      this.lado=lado;
  }
  
- 
+  public void tirarDado(){
+   this.valor=int (random(1,7));
+     
+ }
+
  
  
  
